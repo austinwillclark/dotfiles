@@ -1,0 +1,7 @@
+[user]
+	name = Austin Clark
+	email = 164802660+austinwillclark@users.noreply.github.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
