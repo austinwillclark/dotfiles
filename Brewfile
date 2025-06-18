@@ -1,0 +1,12 @@
+brew "git"
+
+cask "font-hack-nerd-font"
+cask "firefox@developer-edition"
+cask "visual-studio-code"
+cask "iterm2"
+cask "discord"
+cask "polypane"
+cask "affinity-designer"
+cask "affinity-photo"
+cask "affinity-publisher"
+cask "proton-drive"
